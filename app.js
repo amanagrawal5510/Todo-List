@@ -10,7 +10,7 @@ const _ = require("lodash");
 //Database
 const mongoose = require('mongoose');
 
-mongoose.connect("mongodb+srv://admin-aman:aman123456@cluster0.niakw.mongodb.net/todolistDB" , {useNewUrlParser: true, useUnifiedTopology: true});
+mongoose.connect("mongodb+srv://admin-yourFirstName:<password>@cluster0.niakw.mongodb.net/todolistDB" , {useNewUrlParser: true, useUnifiedTopology: true});
 
 const app = express();
 
