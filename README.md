@@ -4,8 +4,8 @@
 # Link To access
 [https://desolate-headland-99579.herokuapp.com/](url)
 
-To Create a new todo list
-https://desolate-headland-99579.herokuapp.com/<List Name>
+To Create a new todo list : [https://desolate-headland-99579.herokuapp.com/<List Name>](url)
+
 
 # Software Stack
   1. HTML
